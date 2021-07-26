@@ -1,0 +1,16 @@
+C:\Users\Scholarchip\source\repos\MarkdownHTMLConverter\MarkdownHTMLConverter\bin\Debug\net5.0\MarkdownHTMLConverter.exe
+C:\Users\Scholarchip\source\repos\MarkdownHTMLConverter\MarkdownHTMLConverter\bin\Debug\net5.0\MarkdownHTMLConverter.deps.json
+C:\Users\Scholarchip\source\repos\MarkdownHTMLConverter\MarkdownHTMLConverter\bin\Debug\net5.0\MarkdownHTMLConverter.runtimeconfig.json
+C:\Users\Scholarchip\source\repos\MarkdownHTMLConverter\MarkdownHTMLConverter\bin\Debug\net5.0\MarkdownHTMLConverter.runtimeconfig.dev.json
+C:\Users\Scholarchip\source\repos\MarkdownHTMLConverter\MarkdownHTMLConverter\bin\Debug\net5.0\MarkdownHTMLConverter.dll
+C:\Users\Scholarchip\source\repos\MarkdownHTMLConverter\MarkdownHTMLConverter\bin\Debug\net5.0\ref\MarkdownHTMLConverter.dll
+C:\Users\Scholarchip\source\repos\MarkdownHTMLConverter\MarkdownHTMLConverter\bin\Debug\net5.0\MarkdownHTMLConverter.pdb
+C:\Users\Scholarchip\source\repos\MarkdownHTMLConverter\MarkdownHTMLConverter\obj\Debug\net5.0\MarkdownHTMLConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Scholarchip\source\repos\MarkdownHTMLConverter\MarkdownHTMLConverter\obj\Debug\net5.0\MarkdownHTMLConverter.AssemblyInfoInputs.cache
+C:\Users\Scholarchip\source\repos\MarkdownHTMLConverter\MarkdownHTMLConverter\obj\Debug\net5.0\MarkdownHTMLConverter.AssemblyInfo.cs
+C:\Users\Scholarchip\source\repos\MarkdownHTMLConverter\MarkdownHTMLConverter\obj\Debug\net5.0\MarkdownHTMLConverter.csproj.CoreCompileInputs.cache
+C:\Users\Scholarchip\source\repos\MarkdownHTMLConverter\MarkdownHTMLConverter\obj\Debug\net5.0\MarkdownHTMLConverter.dll
+C:\Users\Scholarchip\source\repos\MarkdownHTMLConverter\MarkdownHTMLConverter\obj\Debug\net5.0\ref\MarkdownHTMLConverter.dll
+C:\Users\Scholarchip\source\repos\MarkdownHTMLConverter\MarkdownHTMLConverter\obj\Debug\net5.0\MarkdownHTMLConverter.pdb
+C:\Users\Scholarchip\source\repos\MarkdownHTMLConverter\MarkdownHTMLConverter\obj\Debug\net5.0\MarkdownHTMLConverter.genruntimeconfig.cache
+C:\Users\Scholarchip\source\repos\MarkdownHTMLConverter\MarkdownHTMLConverter\obj\Debug\net5.0\MarkdownHTMLConverter.csproj.AssemblyReference.cache
